@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+html {
+  font-size: 18px;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+body{
+  background-color: #efefef;
+}
+
+*{
+  box-sizing: border-box;
+}
